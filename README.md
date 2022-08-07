@@ -13,6 +13,6 @@ Insatll python3
 ## Usage 🔧
 launch the console.py file in the python interpreter as the entry point of application
 
-# Authorss 🖋️
-Dylane Agoka 
-Dilane Fogue
+# Authors 🖋️
+Dylane Agoka <dylaneagoka47@gmail.com>
+Dilane Fogue <dilanekamga777@gmail.com>
