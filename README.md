@@ -14,5 +14,5 @@ Insatll python3
 launch the console.py file in the python interpreter as the entry point of application
 
 # Authors 🖋️
-Dylane Agoka <dylaneagoka47@gmail.com>
-Dilane Fogue <dilanekamga777@gmail.com>
+Dylane Agoka <>
+Dilane Fogue <>
