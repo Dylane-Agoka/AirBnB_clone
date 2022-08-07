@@ -8,7 +8,7 @@ We use the Cmd Python module to create basic console, to manage the objects of t
 
 ## Start the project
 Insatll python3
-clone the project
+#clone the project
 
 ## Usage 🔧
 launch the console.py file in the python interpreter as the entry point of application
